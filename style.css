@@ -1,0 +1,13 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+.container {
+   text-align: center;
+   height: 100vh;
+   background-color: rgb(65, 65, 65);
+}
+#canvas {
+   margin-top: 100px;
+   border-radius: 10px;
+}
